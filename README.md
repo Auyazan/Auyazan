@@ -21,8 +21,8 @@ Aplicación web Full Stack desarrollada para optimizar la administración integr
 
 ---
 
-## 📬 Conéctate conmigo
+## Conéctate conmigo
 
-- 💼  www.linkedin.com/in/andrés-camilo-uyazantorres-2b5ba4350
-- 📧 Correo: camilout2251@gmail.com
-- 📍 Medellín, Colombia
+-  www.linkedin.com/in/andrés-camilo-uyazantorres-2b5ba4350
+-  Correo: camilout2251@gmail.com
+-  Medellín, Colombia
